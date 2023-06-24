@@ -13,7 +13,7 @@ class DLLNode {
     }
 }
 public class DLLOperations {
-    static DLLNode head;
+    public static DLLNode head;
     static Node last;
 
     void delete(Node nodeToBeDeleted){}
